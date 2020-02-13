@@ -1,0 +1,17 @@
+###COMANDOS GIT####
+git init -> inicia o git
+git status -> status para as auterações do git
+git add (. OU nome do arquivo OU *.extensão dos arquivos) -> Adicionar arquivos para fazer o commit
+git commit -m "msg de alteração" -> alteração no git com a mensagem
+git log -> para ver os pontos de commit já criados
+git diff -> para ver as alterações feitas nos arquivos
+git checkout -> Verificar um ponto do commit com o ID do git log
+git branch (nome do branch) -> Cria um novo ramo no git (o master é o cauli o principal)
+
+
+
+### OUTROS COMANDOS UTEIS NO TERMINAL ###
+touch -> Criar um novo arquivo
+nano -> editar um arquivo no terminal
+cat -> vizualizar o conteúdo de um arquivo
+
